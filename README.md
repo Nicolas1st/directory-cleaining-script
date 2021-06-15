@@ -1,4 +1,4 @@
-### Directory Ceaining Script
+# Directory Cleaning Script
 
 
 ## Description
